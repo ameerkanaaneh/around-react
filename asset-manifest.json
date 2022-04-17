@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/around-react/static/css/main.7d7c5b00.css",
-    "main.js": "/around-react/static/js/main.99c53821.js",
+    "main.css": "/around-react/static/css/main.c91a4689.css",
+    "main.js": "/around-react/static/js/main.993718a5.js",
     "static/media/inter-v7-latin-500.woff2": "/around-react/static/media/inter-v7-latin-500.09888c3a03b6e6c64e6d.woff2",
     "static/media/inter-v7-latin-900.woff2": "/around-react/static/media/inter-v7-latin-900.5d23976445913ae8e5b1.woff2",
     "static/media/inter-v7-latin-regular.woff2": "/around-react/static/media/inter-v7-latin-regular.5e6a773da9d1377fc690.woff2",
@@ -12,11 +12,11 @@
     "static/media/blackHeart.svg": "/around-react/static/media/blackHeart.f8482d28867cec189b08.svg",
     "static/media/Vectoredit-icon.svg": "/around-react/static/media/Vectoredit-icon.ae1a976ddb506239e9f0.svg",
     "static/media/Vector(2).svg": "/around-react/static/media/Vector(2).bed8c136e13907f5eefb.svg",
-    "main.7d7c5b00.css.map": "/around-react/static/css/main.7d7c5b00.css.map",
-    "main.99c53821.js.map": "/around-react/static/js/main.99c53821.js.map"
+    "main.c91a4689.css.map": "/around-react/static/css/main.c91a4689.css.map",
+    "main.993718a5.js.map": "/around-react/static/js/main.993718a5.js.map"
   },
   "entrypoints": [
-    "static/css/main.7d7c5b00.css",
-    "static/js/main.99c53821.js"
+    "static/css/main.c91a4689.css",
+    "static/js/main.993718a5.js"
   ]
 }
